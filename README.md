@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gayathri kayapati
+- #👋 Hi, I’m Gayathri kayapati
 - # 💫 About Me:
 📚I'm currently learning front-end web development<br>👯‍♀️I'm looking to collaborate on React.js<br>🤝I'm looking for help with React<br>🌱I'm currently learning React<br>💬Ask me about Front end Development
 
